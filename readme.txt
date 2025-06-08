@@ -1,2 +1,4 @@
-Project to be uploaded soon..
-As it was developed locally
+Please visit the correspondent repo web as Amazon blocked :
+https://github.com/Nafiz71/ETL-Project-OpenLibrary-Data-Pipeline
+
+
